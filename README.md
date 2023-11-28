@@ -3,7 +3,7 @@
 Welcome to WindowsHardening – your go-to repository for enhancing the security of Windows 10 and Windows 11 clients managed through Microsoft Intune.
 
 ## About This Repository
-In this repository, you'll find a collection of hardening files in JSON format, meticulously designed to bolster the security of your Windows 10 and Windows 11 systems. These files are not just any random collection; they are session catalogs, underpinned by the comprehensive and industry-recognized CIS Benchmarks tailored for Windows 10 and Windows 11 hardening.
+This repository contains JSON files designed to enhance Windows 10 and Windows 11 security, based on the settings catalog in Intune. They follow the industry-recognized CIS Benchmarks for Windows hardening.
 
 ## What's Inside
 * JSON Hardening Files: Each file is an export from a session catalog, offering you a plug-and-play solution for immediately enhancing your system's security posture.

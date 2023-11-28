@@ -16,7 +16,7 @@ This repository contains JSON files designed to enhance Windows 10 and Windows 1
 * Apply Settings: Deploy these settings across your Windows clients to enforce a robust security framework.
 
 ### Why CIS Benchmarks?
-CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning our hardening files with these benchmarks, we provide you with a trustworthy and effective way to harden your Windows environments against vulnerabilities. The free available PDF files have been a source for building the settings catalog files.
+CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning the hardening files with these benchmarks, as much as possible, this provides you with a trustworthy and effective way to harden your Windows environments against vulnerabilities. The free available PDF files have been a source for building the settings catalog files.
 
 ## Contribution
 Feel free to contribute, suggest improvements, or report issues. Your input is valuable in making "WindowsHardening" a robust and community-driven tool for Windows security.

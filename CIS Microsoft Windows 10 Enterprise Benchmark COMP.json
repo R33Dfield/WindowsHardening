@@ -2676,7 +2676,7 @@
                                                  "simpleSettingValue":  {
                                                                             "@odata.type":  "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
                                                                             "settingValueTemplateReference":  null,
-                                                                            "value":  "\"CISADMIN\""
+                                                                            "value":  "\"tempadmin\""
                                                                         }
                                              }
                      },
@@ -2688,7 +2688,7 @@
                                                  "simpleSettingValue":  {
                                                                             "@odata.type":  "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
                                                                             "settingValueTemplateReference":  null,
-                                                                            "value":  "\"CISGUEST\""
+                                                                            "value":  "\"tempguest\""
                                                                         }
                                              }
                      },

@@ -6,7 +6,7 @@ Welcome to WindowsHardening – your go-to repository for enhancing the security
 This repository contains JSON files designed to enhance Windows 10 and Windows 11 security, based on the settings catalog in Intune. They follow the industry-recognized CIS Benchmarks for Windows hardening.
 
 ## What's Inside
-* JSON Hardening Files: Each file is an export from a session catalog, offering you a plug-and-play solution for immediately enhancing your system's security posture.
+* JSON Hardening Files: Each file is an export from a settings catalog configuration, offering you a plug-and-play solution for immediately enhancing your system's security posture.
 * Structured Settings: The hardening settings are split between user and computer settings, allowing for precise and targeted security measures.
 * Wide Compatibility: Primarily designed for Windows 10 and Windows 11 Enterprise editions, these hardening files are also compatible and effective on other versions like Windows Pro.
 
@@ -16,7 +16,7 @@ This repository contains JSON files designed to enhance Windows 10 and Windows 1
 * Apply Settings: Deploy these settings across your Windows clients to enforce a robust security framework.
 
 ### Why CIS Benchmarks?
-CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning our hardening files with these benchmarks, we provide you with a trustworthy and effective way to harden your Windows environments against vulnerabilities.
+CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning our hardening files with these benchmarks, we provide you with a trustworthy and effective way to harden your Windows environments against vulnerabilities. The free available PDF files have been a source for building the settings catalog files.
 
 ## Contribution
 Feel free to contribute, suggest improvements, or report issues. Your input is valuable in making "WindowsHardening" a robust and community-driven tool for Windows security.

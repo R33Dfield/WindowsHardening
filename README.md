@@ -3,6 +3,8 @@
 Welcome to WindowsHardening – your go-to repository for enhancing the security of Windows 10 and Windows 11 clients managed through Microsoft Intune.
 
 ## About This Repository
+<img align="right" src="https://rietveld-ict.nl/wp-content/uploads/2023/12/shield_windows.png"/>
+
 This repository contains JSON files designed to enhance Windows 10 and Windows 11 security, based on the settings catalog in Intune. They follow the industry-recognized CIS Benchmarks for Windows hardening.
 
 ## What's Inside
@@ -23,6 +25,9 @@ Feel free to contribute, suggest improvements, or report issues. Your input is v
 
 ## Stay Secure
 Remember, security is an ongoing journey, not a destination. Keep your systems updated and regularly check back for the latest hardening files.
+
+## Disclaimer
+Before using the configurations in the "WindowsHardening" repository for Windows 10 or 11, please test them thoroughly in your environment. Adjustments may be needed to meet your organization's specific security and operational needs. Deployment in a production environment is at your own responsibility.
 
 ## Reference
 https://www.cisecurity.org/benchmark/microsoft_windows_desktop
